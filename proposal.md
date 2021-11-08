@@ -28,11 +28,11 @@ Create a functional website with at least two playable games.
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-Create an easily navigatable and visually pleasing website with multiple interesting, unique games.
+Create an easily navigatable and functional website with many different games.
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-
+Create an easily navigatable, functional, and visual engaging website with multiple interesting, unique games.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
