@@ -2,15 +2,15 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+MyGameSite
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-TODO
+A website that hosts the games I will make.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-TODO
+The site will have a variety of games to be accessed and played with information on it and other sorces relating the the contents and inspiration/production of the games.
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
@@ -24,16 +24,16 @@ TODO, if applicable
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-TODO
+Create a functional website with at least two playable games.
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-TODO
+Create an easily navigatable and visual pleasing website with multiple interesting games.
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-TODO
+Create a 
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+Learning to create a website with something like HTML or some other method as well as understanding the code behind simple games like pong. Reasearching useful functions and common coding methods and techniques to aid in the making of the games. As well as studing game mechanics and what makes a game fun and interesting to play and what makes a website easy and enjoyable to navigate.
