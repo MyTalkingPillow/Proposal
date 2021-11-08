@@ -36,4 +36,4 @@ Create an easily navigatable, functional, and visual engaging website with multi
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-Learning to create a website with something like HTML or some other method as well as understanding the code behind simple games like pong. Reasearching useful functions and common coding methods and techniques to aid in the making of the games. As well as studing game mechanics and what makes a game fun and interesting to play and what makes a website easy and enjoyable to navigate.
+Learning to create a website with something like HTML or some other method as well as understanding the code behind simple games like pong. Reasearching useful functions and common coding methods and techniques to aid in the making of the games. Looking at others' success in website creation and game design for inspiration. As well as studying game mechanics and what makes a game fun and interesting to play and what makes a website easy and enjoyable to navigate. 
